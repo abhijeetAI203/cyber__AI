@@ -9,7 +9,7 @@ All tools are built to be easily run on Linux environments and include animated 
 
 ## Setup
 ```bash
-git clone <repo-url>
+git clone <(https://github.com/abhijeetAI203/cyber__AI.git)>
 cd cyber-internship-projects
 pip install -r requirements.txt
 ```
