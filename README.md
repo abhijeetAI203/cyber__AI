@@ -1,4 +1,4 @@
-# Cyber Internship Projects
+# Cyber using AI
 
 This repository contains two advanced cybersecurity tools:
 
