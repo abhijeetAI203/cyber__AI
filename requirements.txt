@@ -1,0 +1,7 @@
+flask
+beautifulsoup4
+requests
+colorama
+rich
+sqlite3
+matplotlib
