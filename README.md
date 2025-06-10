@@ -10,7 +10,7 @@ All tools are built to be easily run on Linux environments and include animated 
 ## Setup
 ```bash
 git clone https://github.com/abhijeetAI203/cyber__AI.git
-cd cyber-internship-projects
+cd cyber_AI
 pip install -r requirements.txt
 ```
 
