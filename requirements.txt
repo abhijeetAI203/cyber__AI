@@ -5,3 +5,5 @@ colorama
 rich
 sqlite3
 matplotlib
+openai
+
