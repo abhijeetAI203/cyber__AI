@@ -18,3 +18,4 @@ pip install -r requirements.txt
 - Python, Flask
 - BeautifulSoup, Requests
 - Rich (terminal styling), Colorama
+- openai
