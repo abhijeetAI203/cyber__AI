@@ -1,14 +1,47 @@
-# Cyber using AI
+# 🛡️ Cyber AI – Web Vulnerability Scanner & Phishing Simulation Platform
 
-This repository contains two advanced cybersecurity tools:
+Cyber AI is an AI-powered cybersecurity toolkit that includes:
+- An advanced **Web Vulnerability Scanner** capable of detecting SQLi, LFI, Command Injection, and missing security headers.
+- A **Phishing Simulation Platform** to demonstrate social engineering risks.
+- A lightweight **AI Pentest Assistant** to interactively help with Capture the Flag (CTF) challenges.
 
-1. **AI-Powered Web Vulnerability Scanner**
-2. **Ethical Phishing Simulation Platform**
+> Developed by **ABHIJEET | abhijeetAI203**
 
-All tools are built to be easily run on Linux environments and include animated terminal visuals.
+---
+
+## 🚀 Features
+
+### 🔍 Vulnerability Scanner (`scanner_ai_ultimate.py`)
+- Full website crawling
+- AI-assisted detection of:
+  - SQL Injection (SQLi)
+  - Local File Inclusion (LFI)
+  - Command Injection
+  - Missing security headers
+  - Exposed admin panels
+- AI Pentest Assistant (OpenAI GPT-4)
+
+### 🤖 Quick AI Scanner (`scanner_ai.py`)
+- Single-page form scanner
+- AI-generated payloads
+- Detects common vulnerability signs
+- Rich terminal reporting
+
+### 🎣 Phishing Simulator (`phishing_ai.py`)
+- AI-generated phishing email template
+- AI-generated login page
+- SQLite logging of email, IP, timestamp, and user-agent
+- Ethical use only — for training or demo purposes
+
+---
+
+## 🧠 Requirements
+```
+pip install openai requests beautifulsoup4 flask rich colorama
+```
 
 ## Setup
-```bash
+```
 git clone https://github.com/abhijeetAI203/cyber__AI.git
 cd cyber_AI
 pip install -r requirements.txt
